@@ -20,6 +20,10 @@ Notes:	 Hand coded for Udemy.com
 #features img{
    margin: 0 0 20px;
 }
+#Quick {
+   list-style-type: none;
+   padding-left: 100px;
+}
 #bigCallout{ width: 100%;
    margin-top: 15px;
    margin-left: 1px;
@@ -80,7 +84,9 @@ width: 100% }
 /* --------------------------------------
    Global Styles
    -------------------------------------- */
-
+.tabbable img.thumbnail{
+   margin: 0 20px 10px 0;
+}
 
 
 /* --------------------------------------
